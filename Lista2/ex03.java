@@ -14,5 +14,6 @@ public class ex03 {
         System.out.println("Digite o segundo número");
         num2 = scan.nextInt();
         System.out.printf("O produto de %d e %d é: %d", num1,num2,num1*num2);
+        scan.close();
     }
 }

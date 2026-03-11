@@ -15,7 +15,7 @@ public class ex05 {
             media = nota1 + nota2 + nota3 / 3;
             String mediaformat = String.format("%.2f", media);
             System.out.println(mediaformat);
-            scan(close);
+            scan.close();
         }
 
 }
