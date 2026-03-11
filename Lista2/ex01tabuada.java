@@ -1,3 +1,4 @@
+package Lista2;
 
 public class ex01tabuada {
     public static void main(String[] args)

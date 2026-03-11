@@ -1,3 +1,5 @@
+package Lista3;
+
 //Arthur Vinicius Santos
 import java.util.Scanner;
 
@@ -32,7 +34,7 @@ public class ex13{
         }
 
         else if (sinal == '/'){
-            if (num1 <= 0){
+            if (num1 == 0){
                 System.out.println("Impossível dividir");
             } 
             else {
@@ -42,5 +44,6 @@ public class ex13{
         else {
             System.out.println("Sinal Inválido");
         }
+        scan.close();
 }
 }

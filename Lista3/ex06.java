@@ -1,3 +1,5 @@
+package Lista3;
+
 //Arthur Vinicius Santos
 import java.util.Scanner;
 public class ex06 {
@@ -20,6 +22,7 @@ public class ex06 {
             pesoIdeal = (62.1 * altura) - 44.7;
         } else {
             System.out.println("Sexo inválido.");
+            scanner.close();
             return;
         }
 

@@ -1,3 +1,5 @@
+package Lista2;
+
 // Arthur Vínicius Santos
 import java.util.Scanner;
 public class ex05 {

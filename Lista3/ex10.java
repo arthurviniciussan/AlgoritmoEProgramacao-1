@@ -1,3 +1,5 @@
+package Lista3;
+
 //Arthur Vinicius Santos
 import java.util.Scanner;
 
@@ -15,5 +17,6 @@ public class ex10{
         } else {
             System.out.println("O maior número é " + maior );
         }
+        scan.close();
 }
 }

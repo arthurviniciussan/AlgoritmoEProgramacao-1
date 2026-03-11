@@ -1,3 +1,5 @@
+package Lista3;
+
 //Arthur Vinicius Santos
 import java.util.Scanner;
 
@@ -19,6 +21,7 @@ public class ex07{
             System.out.println("Por ter ter menos de 5 anos na empresa, o funcionário recebeu um aumento de apenas 10% no salário");
             System.out.printf("Novo salário %.2f\n", salario + aumento10);
         }
+        scan.close();
 
     }
 }

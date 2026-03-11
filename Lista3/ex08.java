@@ -1,3 +1,5 @@
+package Lista3;
+
 //Arthur Vinicius Santos
 import java.util.Scanner;
 
@@ -13,5 +15,6 @@ public class ex08{
         else {
             System.out.println("acesso negado");
         }
+        scan.close();
     }
 }

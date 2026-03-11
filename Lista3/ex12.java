@@ -1,3 +1,5 @@
+package Lista3;
+
 //Arthur Vinicius Santos
 import java.util.Scanner;
 
@@ -23,5 +25,6 @@ public class ex12{
        else {
         System.out.printf("Desconto de %.2f no seu salário", salario * 0.30);
        }
+       scan.close();
 }
 }

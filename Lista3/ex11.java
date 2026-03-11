@@ -1,3 +1,5 @@
+package Lista3;
+
 //Arthur Vinicius Santos
 import java.util.Scanner;
 
@@ -30,5 +32,6 @@ public class ex11{
         {
             System.out.println("Não tem idade para nadar");
         }
+        scan.close();
 }
 }
