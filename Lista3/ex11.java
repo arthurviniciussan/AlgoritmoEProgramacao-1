@@ -1,4 +1,3 @@
-
 //Arthur Vinicius Santos
 import java.util.Scanner;
 

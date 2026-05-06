@@ -1,5 +1,3 @@
-package Lista2;
-
 // Arthur Vínicius Santos
 public class ex02 {
     public static void main(String[] args)

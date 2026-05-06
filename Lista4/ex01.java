@@ -1,5 +1,3 @@
-package Lista4;
-
 //Arthur Vinicius Santos
 import java.util.Scanner;
 

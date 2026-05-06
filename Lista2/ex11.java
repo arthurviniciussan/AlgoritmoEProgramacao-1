@@ -1,8 +1,6 @@
-package Lista2;
-
 // Arthur Vínicius Santos
-import java.util.Scanner;
 import java.time.LocalDate;
+import java.util.Scanner;
 
 public class ex11 {
     public static void main(String[] args)
