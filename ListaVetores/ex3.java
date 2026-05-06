@@ -27,6 +27,8 @@ public class  ex3 {
         
         System.out.println(listaNomes[0]);
         System.out.println(listaNomes[4]);
+
+         scan.close();
        
 
     }

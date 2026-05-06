@@ -38,6 +38,7 @@ public class  ex6 {
             System.out.println(vetorC[i]);
         }
 
+         scan.close();
 
     }
     

@@ -12,7 +12,7 @@ public class  ex2 {
         }
 
         System.out.println();
-        
+
         System.out.println("pares");
         for (int i = 0; i < listaNum.length; i++) {
             if(listaNum[i] % 2 == 0) {
@@ -28,6 +28,8 @@ public class  ex2 {
                 System.out.println(listaNum[i]);
             }
         }
+
+        scan.close();
     }
     
 }
