@@ -1,5 +1,3 @@
-package ListaNumerosAleatorios;
-
 import java.util.Random;
 
 public class ex3 {

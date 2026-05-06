@@ -1,6 +1,4 @@
 // Arthur Vinicius Santos
-package ListaNumerosAleatorios;
-
 import java.util.Random;
 import java.util.Scanner;
 
